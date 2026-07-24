@@ -1,7 +1,7 @@
 #SIP Calculator
 
 #input values
-mon_inv=input("Enter monthly investement amount:") #mon_inv - monthly investment 
+mon_inv=input("Enter monthly investment amount:") #mon_inv - monthly investment 
 mon_inv=int(mon_inv)
 ret=input("Enter annual return % :")
 ret=int(ret)
